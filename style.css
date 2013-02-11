@@ -1,0 +1,15 @@
+html {background-color: black}
+
+h1 {font-family: "Verdana", verdana, sans; font-size: 48px;color: white; }
+h2 {font-family: "Verdana", verdana, sans; font-size: 20px; color: white; }
+h3 {font-family: "Verdana", verdana, sans; font-size: 15px; color: white; }
+h4 {font-family: "Verdana", verdana, sans; font-size: 20px; color: white; }
+
+
+
+.weapons img {border: 2px; border-color: gray; border-style: solid;}
+
+.weapons img:hover{border: 2px; border-color: red; border-style: solid;}
+
+.user h1,h3{display: inline;}
+.computer h1, h3{display: inline;}
